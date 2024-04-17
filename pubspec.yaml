@@ -1,7 +1,7 @@
 name: instagram_main_view
-description: "Description here"
+description: "Instagram Main View"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/instagram_main_view
 
 version: 1.0.0+1
 
